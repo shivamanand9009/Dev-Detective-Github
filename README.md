@@ -15,8 +15,9 @@
 
 ## Technologies Used
 - **Frontend:**
-  - ReactJS
-  - CSS / Bootstrap
+  - HTML
+  - CSS
+  - JavaScript
 - **API:**
   - GitHub REST API v3
 - **Libraries:**
